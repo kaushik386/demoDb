@@ -1,4 +1,5 @@
-[
+
+{"employees":[
     {
       "id": 1,
       "name": "employee1",
@@ -60,3 +61,4 @@
       "photo": "http://placehold.it/600/24f355"
     }
   ]
+}
