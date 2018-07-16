@@ -1,11 +1,65 @@
 {
-  "posts": [
+  "employees": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "employee1",
+      "age":"24",
+      "gender":"male",
+      "designation":"ASE",
+      "photo": "http://placehold.it/600/92c952"
+    },
+    {
+      "id": 2,
+      "name": "employee2",
+      "age":"25",
+      "gender":"female",
+      "designation":"IT Analyst",
+      "photo": "http://placehold.it/600/771796"
+    },{
+      "id": 3,
+      "name": "employee3",
+      "age":"26",
+      "gender":"female",
+      "designation":"Consultant",
+      "photo": "http://placehold.it/600/24f355"
+    },
+    {
+      "id": 4,
+      "name": "employee4",
+      "age":"54",
+      "gender":"male",
+      "designation":"ASE",
+      "photo": "http://placehold.it/600/b0f7cc"
+    },{
+      "id": 5,
+      "name": "employee5",
+      "age":"30",
+      "gender":"male",
+      "designation":"Consultant",
+      "photo": "http://placehold.it/600/92c952"
+    },
+    {
+      "id": 6,
+      "name": "employee6",
+      "age":"40",
+      "gender":"male",
+      "designation":"Consultant",
+      "photo": "http://placehold.it/600/92c952"
+    },{
+      "id": 7,
+      "name": "employee7",
+      "age":"47",
+      "gender":"male",
+      "designation":"Consultant",
+      "photo": "http://placehold.it/600/92c952"
+    },{
+      "id": 8,
+      "name": "employee8",
+      "age":"28",
+      "gender":"female",
+      "designation":"Consultant",
+      "photo": "http://placehold.it/600/24f355"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
+ 
 }
