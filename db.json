@@ -7,7 +7,7 @@
       "gender":"male",
       "designation":"ASE",
       "photo": "http://placehold.it/600/92c952",
-      "leaves":0
+      "leaves":"0"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "gender":"female",
       "designation":"IT Analyst",
       "photo": "http://placehold.it/600/771796",
-        "leaves":0
+        "leaves":"0"
     },{
       "id": 3,
       "name": "employee3",
@@ -24,7 +24,7 @@
       "gender":"female",
       "designation":"Consultant",
       "photo": "http://placehold.it/600/24f355",
-        "leaves":0
+         "leaves":"0"
     },
     {
       "id": 4,
@@ -33,7 +33,7 @@
       "gender":"male",
       "designation":"ASE",
       "photo": "http://placehold.it/600/b0f7cc",
-        "leaves":0
+        "leaves":"0"
     },{
       "id": 5,
       "name": "employee5",
@@ -41,7 +41,7 @@
       "gender":"male",
       "designation":"Consultant",
       "photo": "http://placehold.it/600/92c952",
-        "leaves":0
+          "leaves":"0"
     },
     {
       "id": 6,
@@ -50,7 +50,7 @@
       "gender":"male",
       "designation":"Consultant",
       "photo": "http://placehold.it/600/92c952",
-        "leaves":0
+          "leaves":"0"
         
     },{
       "id": 7,
@@ -59,7 +59,7 @@
       "gender":"male",
       "designation":"Consultant",
       "photo": "http://placehold.it/600/92c952",
-        "leaves":0
+         "leaves":"0"
     },{
       "id": 8,
       "name": "employee8",
@@ -67,7 +67,7 @@
       "gender":"female",
       "designation":"Consultant",
       "photo": "http://placehold.it/600/24f355",
-        "leaves":0
+        "leaves":"0"
     }
   ]
 }
